@@ -1,0 +1,46 @@
+.body {
+    font-family: 'Staatliches', cursive;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.about2 {
+    font-family: 'Staatliches', cursive;
+    position: relative;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 90px;
+    font-weight: 10px;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    text-align: center;
+}
+
+.back {
+    font-family: 'Staatliches', cursive;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.background {
+    background-color: #181123;
+}

@@ -1,0 +1,76 @@
+.h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 80px;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+}
+
+.about {
+    font-family: 'Staatliches', cursive;
+    position: relative;
+    margin-left: 8px;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 10px;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.blogposts {
+    font-family: 'Staatliches', cursive;
+    position: relative;
+    margin-left: 1360px;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 10px;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.gradientText {
+    font-size: 150px;
+    text-align: center;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 170px;
+    margin-bottom: 5px;
+    font-family: 'Staatliches', cursive;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 75%;
+    background-repeat: repeat;
+    background-color: lightgrey;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+
+
+.background {
+    background-color: #181123;
+}
+
+.titleunderline {
+    height: 10px;
+    width: 450px;
+    background-color: white;
+    margin-left: 550px;
+    margin-bottom: 15px;
+}
